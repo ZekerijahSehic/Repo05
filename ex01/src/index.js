@@ -6,7 +6,7 @@ function main(){
     return {
         myFirstString,
         mySecondString
-    }
+    };
 }
 
 console.log(main());
